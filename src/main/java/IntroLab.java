@@ -9,8 +9,8 @@ public class IntroLab {
 
     /**
      * Returns a message depending on the given greeting, name, message, and
-     * whether the caller likes cats or dogs more.
-     *
+     * whether the caller likes cat or dogs more.
+     * <p>
      * Do NOT change this method!
      *
      * @param greeting   A string with a greeting (e.g. "Hello", "Hey")
